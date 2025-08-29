@@ -32,3 +32,7 @@ Abra o projeto no Visual Studio.
 Configure a conexão com o MySQL no arquivo Core/DatabaseConfig.cs (host, usuário, senha e banco).
 compile e execute.
 
+📊 Melhorias Futuras
+ □  Refatoração do projeto para melhorar a organização do código
+ □  Validações de campos em todos os formulários (atualmente algumas telas ainda não possuem validação completa)
+
