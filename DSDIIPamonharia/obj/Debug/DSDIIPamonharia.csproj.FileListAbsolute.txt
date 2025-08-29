@@ -1,0 +1,165 @@
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.exe.config
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.exe
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.pdb
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\ZstdSharp.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.Properties.Resources.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPam.BDFB4359.Up2Date
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.pdb
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.FormPrincipal.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormCadastro.resources
+C:\Users\User\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCCProdutos.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe.config
+C:\Users\User\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe.config
+C:\Users\User\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe
+C:\Users\User\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.pdb
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.AssemblyReference.cache
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe.config
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.pdb
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.exe.config
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.exe
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.pdb
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Hash.xxHash.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MaterialSkin.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MySql.Data.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Buffers.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.IO.Pipelines.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Memory.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Numerics.Vectors.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\ZstdSharp.dll
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.pdb
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Hash.xxHash.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MySql.Data.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Buffers.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.IO.Pipelines.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Memory.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Numerics.Vectors.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.Properties.Resources.resources
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormCadastro.resources
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.FormPrincipal.resources
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.GenerateResource.cache
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.CoreCompileInputs.cache
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPam.BDFB4359.Up2Date
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVisuIngredientes.resources
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVisuProdutos.resources
+C:\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCCIngrediente.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVisuProdutos.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVisuIngredientes.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCCIngrediente.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCAddIngredientes.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.exe.config
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.exe
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\DSDIIPamonharia.pdb
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MaterialSkin.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MySql.Data.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Buffers.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Memory.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\ZstdSharp.dll
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.pdb
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Google.Protobuf.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\MySql.Data.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Buffers.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Memory.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.AssemblyReference.cache
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.Properties.Resources.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormCadastro.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.FormPrincipal.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVisuProdutos.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVisuIngredientes.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCAddIngredientes.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCCIngrediente.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCCProdutos.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.GenerateResource.cache
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.csproj.CoreCompileInputs.cache
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPam.BDFB4359.Up2Date
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.exe
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.pdb
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormEstoque.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCEstoque.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVendas.resources
+C:\Users\msouz\OneDrive\Área de Trabalho\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCVendas.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormEstoque.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.FormVendas.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCEstoque.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCVendas.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\obj\Debug\DSDIIPamonharia.UI.Formularios.UCResumoVendas.resources
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\DSDIIPamonharia\DSDIIPamonharia\bin\Debug\itextsharp.xml
